@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/BgqLC5JX)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13790738&assignment_repo_type=AssignmentRepo)
-# 👨‍💻 [Insert Your Name Here] - 🚀 [Insert Project Name Here]
+# 👨‍💻 [Brian Agbamuche] - 🚀 [Maze Solving AI]
 
 Welcome to my Year 13 (AQA) NEA coursework project repository. This document outlines the project's overview, structure, and key information.
 
@@ -8,7 +8,7 @@ Welcome to my Year 13 (AQA) NEA coursework project repository. This document out
 
 ## 📖 Project Description
 
-`[Provide a brief description of your project here. Explain what it aims to achieve, the problem it solves, and who its intended users are.]`
+`Brief Overview: My project is centred around how to go about traversing a maze via an AI rather than a pre defined, traditional way such as the A* Maze Algorithm. It uses the Markov Decision Process along with a numpy defined Neural Network structure to achieve this, using a reward system structure.`
 
 ## 🗂 Repository Structure
 
@@ -22,11 +22,11 @@ Welcome to my Year 13 (AQA) NEA coursework project repository. This document out
 
 ## ⚙️ Setup and Installation
 
-`[Explain how to set up and run your project. Include any prerequisites, library dependencies, and step-by-step instructions.]`
+`Nothing really is required, just python installed and all of the it's pre installed libraries.`
 
 ## 🛠 Usage
 
-`[Provide examples of how to use your project, including any command line interfaces or user interfaces.]`
+`Run the main.py. Then select machine learning and then make maze. Then u will be given a gif after training`
 
 ---
 
